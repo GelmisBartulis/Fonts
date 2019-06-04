@@ -150,13 +150,8 @@ public class MainActivity extends AppCompatActivity {
                         showFont.setText("Righteous");
                         showFont.setTypeface(custom_font);
                         break;
-
                 }
-
-
-
             }
         });
-
     }
 }
